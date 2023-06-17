@@ -1,0 +1,57 @@
+{
+    "nombre": "Felipe.",
+    "menu":[
+        {
+            "nombre": "Home",
+            "link": "#home"
+        },
+        {
+            "nombre": "About",
+            "link": "#about"
+        },
+        {
+            "nombre": "Education",
+            "link": "#education"
+        },
+        {
+            "nombre": "Skills",
+            "link": "#skills"
+        },
+        {
+            "nombre": "Contact",
+            "link": "#contact"
+        }
+    ],
+    "parrafo":{
+        "titulo": [
+            "Hi, I'm",
+            "Felipe Herrera"
+        ],
+        "subtitulo": "Frontend Developer",
+        "descripcion": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Totam, cumque! Asperiores maxime totam esse fugit nisi, minus adipisci non, autem sint perferendis corrupti, rem porro quae consectetur!.",
+        "botones":[
+            {
+                "nombre": "Hire Me",
+                "link": "#"
+            },
+            {
+                "nombre": "Let's talk",
+                "link": "#"
+            }
+        ],
+        "redes":[
+            {
+                "nombre": "bx bxl-facebook",
+                "link": "#"
+            },
+            {
+                "nombre": "bx bxl-twitter",
+                "link": "#"
+            },
+            {
+                "nombre": "bx bxl-linkedin",
+                "link": "#"
+            }
+        ]
+    }
+}
